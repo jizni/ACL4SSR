@@ -227,6 +227,7 @@ payload:
   - DOMAIN-SUFFIX,api.palworldgame.com
   - DOMAIN-SUFFIX,api.pureapk.com
   - DOMAIN-SUFFIX,api.recaptcha.net
+  - DOMAIN-SUFFIX,api.shuaiapi.com
   - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,api5.futunn.com
   - DOMAIN-SUFFIX,apiary.io
@@ -504,6 +505,7 @@ payload:
   - DOMAIN-SUFFIX,breakgfw.com
   - DOMAIN-SUFFIX,breakingtweets.com
   - DOMAIN-SUFFIX,breakwall.net
+  - DOMAIN-SUFFIX,briarproject.org
   - DOMAIN-SUFFIX,brill.com
   - DOMAIN-SUFFIX,brizzly.com
   - DOMAIN-SUFFIX,broadpressinc.com
@@ -648,6 +650,7 @@ payload:
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chat.lmsys.org
   - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,chatpdf.com
   - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,checkgfw.com
@@ -1814,6 +1817,7 @@ payload:
   - DOMAIN-SUFFIX,himemix.com
   - DOMAIN-SUFFIX,hindustantimes.com
   - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,historylines.net
   - DOMAIN-SUFFIX,hitbtc.com
   - DOMAIN-SUFFIX,hitomi.la
   - DOMAIN-SUFFIX,hive.blog
@@ -2157,6 +2161,7 @@ payload:
   - DOMAIN-SUFFIX,kinmen.travel
   - DOMAIN-SUFFIX,kinokuniya.com
   - DOMAIN-SUFFIX,kiwi.kz
+  - DOMAIN-SUFFIX,kiwix.org
   - DOMAIN-SUFFIX,kk-whys.co.jp
   - DOMAIN-SUFFIX,kkbox.com
   - DOMAIN-SUFFIX,kknews.cc
@@ -2353,6 +2358,7 @@ payload:
   - DOMAIN-SUFFIX,maven.neoforged.net
   - DOMAIN-SUFFIX,mcadforums.com
   - DOMAIN-SUFFIX,mcaf.ee
+  - DOMAIN-SUFFIX,mceindex.com
   - DOMAIN-SUFFIX,mcusercontent.com
   - DOMAIN-SUFFIX,md-t.org
   - DOMAIN-SUFFIX,me.me
@@ -3123,6 +3129,7 @@ payload:
   - DOMAIN-SUFFIX,savetibet.org
   - DOMAIN-SUFFIX,savetibetstore.org
   - DOMAIN-SUFFIX,saveuighur.org
+  - DOMAIN-SUFFIX,sb.sb
   - DOMAIN-SUFFIX,sbme.me
   - DOMAIN-SUFFIX,sbti.unun.dev
   - DOMAIN-SUFFIX,schema.org
@@ -4092,6 +4099,7 @@ payload:
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,wplace.live
   - DOMAIN-SUFFIX,wpoforum.com
+  - DOMAIN-SUFFIX,write.as
   - DOMAIN-SUFFIX,writesonic.com
   - DOMAIN-SUFFIX,wsj.com
   - DOMAIN-SUFFIX,wsj.net
@@ -4121,6 +4129,7 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,x.company
   - DOMAIN-SUFFIX,x3guide.com
+  - DOMAIN-SUFFIX,x86.fr
   - DOMAIN-SUFFIX,xbabe.com
   - DOMAIN-SUFFIX,xbookcn.com
   - DOMAIN-SUFFIX,xbtce.com
